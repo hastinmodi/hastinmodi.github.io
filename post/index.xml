@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Hastin Modi</title>
+    <link>https://hastinmodi.github.io/post/</link>
+    <description>Recent content in Blog on Hastin Modi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://hastinmodi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Template 6: Project 6</title>
+      <link>https://hastinmodi.github.io/post/chapter-6/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-6/</guid>
+      <description>Details about project 6.</description>
+    </item>
+    
+    <item>
+      <title>Template 5: Project 5</title>
+      <link>https://hastinmodi.github.io/post/chapter-5/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-5/</guid>
+      <description>Details about project 5.</description>
+    </item>
+    
+    <item>
+      <title>Template 4: Project 4</title>
+      <link>https://hastinmodi.github.io/post/chapter-4/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-4/</guid>
+      <description>Details about project 4.</description>
+    </item>
+    
+    <item>
+      <title>Template 3: Project 3</title>
+      <link>https://hastinmodi.github.io/post/chapter-3/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-3/</guid>
+      <description>Details about project 3.</description>
+    </item>
+    
+    <item>
+      <title>Template 2: Project 2</title>
+      <link>https://hastinmodi.github.io/post/chapter-2/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-2/</guid>
+      <description>Details about project 2</description>
+    </item>
+    
+    <item>
+      <title>Template I: Project 1</title>
+      <link>https://hastinmodi.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hastinmodi.github.io/post/chapter-1/</guid>
+      <description>project 1 details</description>
+    </item>
+    
+  </channel>
+</rss>
